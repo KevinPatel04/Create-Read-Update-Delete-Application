@@ -1,4 +1,4 @@
-# Employee_CRUD
+# Crete-Read-Update-Delete-Application
 Creating simple web-page with BootStrap for Performing CRUD (Create, Read, Update, Delete) operations using PHP scripting &amp; MySql database on Employee Data of an Sales Firm
 
 ## Installation Steps:
